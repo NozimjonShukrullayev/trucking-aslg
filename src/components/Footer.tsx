@@ -1,5 +1,6 @@
 import { Instagram, Phone, Send } from 'lucide-react'
 import { useTranslation } from 'react-i18next'
+import Logo from '@assets/Logo'
 
 const Footer = () => {
 	const { t } = useTranslation()
@@ -9,11 +10,9 @@ const Footer = () => {
 			<div className='container-custom pt-16 pb-8'>
 				<div className='grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8 mb-12'>
 					<div>
-						<img
-							src='/lovable-uploads/441ad7d1-ae18-4976-b1c4-508332ccbcfa.png'
-							alt='Logo'
-							className='h-12 mb-6'
-						/>
+						<Link to='/' className='flex items-center'>
+							<img src={Logo} alt='Logo' className='h-12 invert brightness-0' />
+						</Link>
 						<div className='h-px bg-white/20 w-full my-6'></div>
 					</div>
 
