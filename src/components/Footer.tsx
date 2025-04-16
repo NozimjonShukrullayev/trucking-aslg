@@ -1,6 +1,6 @@
 import { Instagram, Phone, Send } from 'lucide-react'
 import { useTranslation } from 'react-i18next'
-import Logo from '@assets/Logo'
+import { Logo } from '@assets/images'
 
 const Footer = () => {
 	const { t } = useTranslation()
