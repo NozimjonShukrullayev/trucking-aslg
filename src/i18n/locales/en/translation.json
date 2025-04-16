@@ -1,0 +1,132 @@
+{
+	"navigation": {
+		"home": "Home",
+		"about": "About",
+		"services": "Services",
+		"partners": "Partners",
+		"tariff": "Tariff",
+		"vacancies": "Vacancies",
+		"contact": "Contact"
+	},
+	"hero": {
+		"title": "Delivery of all possibilities with one load at a time",
+		"calculate": "Calculate the cost of delivery",
+		"from": "From",
+		"to": "To",
+		"cargoDescription": "Cargo description (weight, volume)",
+		"yourName": "Your name",
+		"yourPhone": "Your phone",
+		"calculateButton": "Calculate"
+	},
+	"about": {
+		"title": "Solution for your business needs",
+		"description": "We make logistics delivery much easier and clearer. Combining good service and technology makes everything efficient.",
+		"smallBusiness": {
+			"title": "Small and Medium Businesses",
+			"description": "Optimal logistics solutions for startups and companies developing their directions."
+		},
+		"corporateClients": {
+			"title": "Large Corporate Clients",
+			"description": "Full logistics cycle, including individual routes, cargo consolidation, and international transportation."
+		},
+		"privateClients": {
+			"title": "Private Clients",
+			"description": "Reliable delivery of personal and commercial goods with a quality guarantee."
+		}
+	},
+	"advantages": {
+		"title": "Our Advantages",
+		"description": "Working with us guarantees that your cargo will arrive at the right place at the right time, and you will receive high-quality service and confidence in the outcome.",
+		"advantage1": {
+			"title": "Client-oriented approach",
+			"description": "We are always in touch, resolve issues promptly, and strive to make the cooperation process as convenient and comfortable as possible for the client."
+		},
+		"advantage2": {
+			"title": "Wide range of services",
+			"description": "From transportation and warehousing to cargo consolidation and customs clearance, we offer a full range of services that cover all stages of the logistics process."
+		},
+		"advantage3": {
+			"title": "Experience with China",
+			"description": "We have a reliable partner in China, which allows us to efficiently organize logistics, minimize costs, and ensure uninterrupted operations even in a competitive environment."
+		},
+		"advantage4": {
+			"title": "Reliability and safety",
+			"description": "Our priority is the safety of your cargo. We guarantee compliance with all safety standards and closely monitor the quality of transportation."
+		},
+		"advantage5": {
+			"title": "Flexible delivery times",
+			"description": "We always find optimal routes and delivery methods to reduce travel time without compromising service quality."
+		},
+		"advantage6": {
+			"title": "Transparency and honesty",
+			"description": "All information about terms, costs, and conditions of cooperation is provided openly and honestly. We build long-term relationships based on trust and transparency."
+		}
+	},
+	"services": {
+		"title": "Discover the full range of services we offer for delivery",
+		"description": "We make logistics delivery much easier and clearer. Combining good service and technology makes everything efficient.",
+		"service1": {
+			"title": "International cargo transportation"
+		},
+		"service2": {
+			"title": "Cargo storage and handling"
+		},
+		"service3": {
+			"title": "Customs clearance"
+		},
+		"service4": {
+			"title": "Logistics consulting"
+		}
+	},
+	"faq": {
+		"title": "Frequently Asked Questions",
+		"description": "Explore our detailed FAQ section that will answer all your questions and help you plan a pleasant and memorable journey.",
+		"question1": {
+			"question": "What services does your company provide?",
+			"answer": "We provide a full range of logistics services, including international and domestic transportation, warehousing, customs clearance, and cargo consolidation."
+		},
+		"question2": {
+			"question": "How do you ensure the safety of the goods?",
+			"answer": "We implement strict safety protocols, work with reliable carriers, use tracking systems, and provide insurance options to ensure the safety of your goods throughout transit."
+		},
+		"question3": {
+			"question": "Which regions do you work with?",
+			"answer": "We operate globally with a strong presence in Asia, Europe, and North America. We have particular expertise in China-related logistics."
+		},
+		"question4": {
+			"question": "What are the delivery times for goods?",
+			"answer": "Delivery times vary depending on the origin, destination, and chosen shipping method. We offer express options when available and always find the most efficient routes."
+		},
+		"question5": {
+			"question": "What types of goods do you transport?",
+			"answer": "We handle a wide range of goods including commercial products, industrial equipment, consumer goods, and specialized cargo requiring special handling."
+		},
+		"question6": {
+			"question": "Do you have experience working with large companies?",
+			"answer": "Yes, we have extensive experience working with large corporate clients, providing customized logistics solutions that meet their specific requirements."
+		},
+		"question7": {
+			"question": "Can the cargo be tracked in real-time?",
+			"answer": "Yes, we provide real-time tracking services for most shipments, allowing you to monitor your cargo's location and status throughout its journey."
+		},
+		"question8": {
+			"question": "What documents are needed for transportation arrangements?",
+			"answer": "Required documents typically include commercial invoice, packing list, bill of lading or airway bill, and customs declarations. Specific requirements may vary by country and cargo type."
+		}
+	},
+	"partners": {
+		"title": "Our partners"
+	},
+	"footer": {
+		"information": "INFORMATION",
+		"services": "SERVICES",
+		"contact": "Contact",
+		"followUs": "FOLLOW US ON SOCIAL MEDIA",
+		"joinUs": "Join Us",
+		"allRightsReserved": "© 2024 All rights reserved",
+		"internationalFreight": "International Freight Transport",
+		"cargoStorage": "Cargo Storage and Handling",
+		"customsClearance": "Customs Clearance",
+		"logisticsConsulting": "Logistics Consulting"
+	}
+}

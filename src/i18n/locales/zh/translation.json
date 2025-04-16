@@ -1,0 +1,132 @@
+{
+	"navigation": {
+		"home": "首页",
+		"about": "关于我们",
+		"services": "服务",
+		"partners": "合作伙伴",
+		"tariff": "关税",
+		"vacancies": "招聘",
+		"contact": "联系我们"
+	},
+	"hero": {
+		"title": "一次交付所有可能性",
+		"calculate": "计算交付成本",
+		"from": "从",
+		"to": "到",
+		"cargoDescription": "货物描述（重量，体积）",
+		"yourName": "您的姓名",
+		"yourPhone": "您的电话",
+		"calculateButton": "计算"
+	},
+	"about": {
+		"title": "满足您业务需求的解决方案",
+		"description": "我们使物流交付变得更加简单明了。良好的服务和技术相结合，使一切都变得高效。",
+		"smallBusiness": {
+			"title": "中小型企业",
+			"description": "为初创企业和发展方向的公司提供最佳物流解决方案。"
+		},
+		"corporateClients": {
+			"title": "大型企业客户",
+			"description": "包括个性化路线、货物整合和国际运输在内的完整物流周期。"
+		},
+		"privateClients": {
+			"title": "私人客户",
+			"description": "质量保证的个人和商业货物的可靠交付。"
+		}
+	},
+	"advantages": {
+		"title": "我们的优势",
+		"description": "与我们合作保证您的货物将在正确的时间到达正确的地点，您将获得高质量的服务和对结果的信心。",
+		"advantage1": {
+			"title": "以客户为导向的方法",
+			"description": "我们始终保持联系，迅速解决问题，并努力使合作过程对客户尽可能方便和舒适。"
+		},
+		"advantage2": {
+			"title": "广泛的服务范围",
+			"description": "从运输和仓储到货物整合和清关，我们提供覆盖物流过程所有阶段的全方位服务。"
+		},
+		"advantage3": {
+			"title": "与中国的经验",
+			"description": "我们在中国有可靠的合作伙伴，这使我们能够高效组织物流，降低成本，并确保即使在竞争环境中也能不间断运营。"
+		},
+		"advantage4": {
+			"title": "可靠性和安全性",
+			"description": "我们的首要任务是您货物的安全。我们保证遵守所有安全标准，并密切监控运输质量。"
+		},
+		"advantage5": {
+			"title": "灵活的交货时间",
+			"description": "我们始终寻找最佳路线和交付方法，以减少行程时间，同时不影响服务质量。"
+		},
+		"advantage6": {
+			"title": "透明度和诚实",
+			"description": "关于合作条款、成本和条件的所有信息都公开诚实地提供。我们建立基于信任和透明的长期关系。"
+		}
+	},
+	"services": {
+		"title": "探索我们为交付提供的全方位服务",
+		"description": "我们使物流交付变得更加简单明了。良好的服务和技术相结合，使一切都变得高效。",
+		"service1": {
+			"title": "国际货物运输"
+		},
+		"service2": {
+			"title": "货物存储和处理"
+		},
+		"service3": {
+			"title": "海关清关"
+		},
+		"service4": {
+			"title": "物流咨询"
+		}
+	},
+	"faq": {
+		"title": "常见问题",
+		"description": "探索我们详细的常见问题部分，它将回答您所有的问题，并帮助您计划一个愉快而难忘的旅程。",
+		"question1": {
+			"question": "贵公司提供哪些服务？",
+			"answer": "我们提供全方位的物流服务，包括国际和国内运输、仓储、清关和货物整合。"
+		},
+		"question2": {
+			"question": "您如何确保货物的安全？",
+			"answer": "我们实施严格的安全协议，与可靠的承运人合作，使用跟踪系统，并提供保险选项，以确保您的货物在运输过程中的安全。"
+		},
+		"question3": {
+			"question": "您在哪些地区工作？",
+			"answer": "我们在全球范围内运营，在亚洲、欧洲和北美有强大的存在。我们在与中国相关的物流方面有特殊的专业知识。"
+		},
+		"question4": {
+			"question": "货物的交货时间是多少？",
+			"answer": "交货时间因起源地、目的地和选择的运输方式而异。我们在可用的情况下提供快递选项，并始终寻找最有效的路线。"
+		},
+		"question5": {
+			"question": "您运输哪些类型的货物？",
+			"answer": "我们处理广泛的货物，包括商业产品、工业设备、消费品和需要特殊处理的专业货物。"
+		},
+		"question6": {
+			"question": "您有与大公司合作的经验吗？",
+			"answer": "是的，我们有与大型企业客户合作的丰富经验，提供满足其特定要求的定制物流解决方案。"
+		},
+		"question7": {
+			"question": "货物可以实时跟踪吗？",
+			"answer": "是的，我们为大多数货物提供实时跟踪服务，使您能够在整个旅程中监控货物的位置和状态。"
+		},
+		"question8": {
+			"question": "运输安排需要哪些文件？",
+			"answer": "通常需要的文件包括商业发票、装箱单、提单或航空运单和海关申报单。具体要求可能因国家和货物类型而异。"
+		}
+	},
+	"partners": {
+		"title": "我们的合作伙伴"
+	},
+	"footer": {
+		"information": "信息",
+		"services": "服务",
+		"contact": "联系我们",
+		"followUs": "在社交媒体上关注我们",
+		"joinUs": "加入我们",
+		"allRightsReserved": "© 2024 版权所有",
+		"internationalFreight": "国际货运",
+		"cargoStorage": "货物存储和处理",
+		"customsClearance": "海关清关",
+		"logisticsConsulting": "物流咨询"
+	}
+}
