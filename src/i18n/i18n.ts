@@ -21,7 +21,7 @@ i18n
 			zh: {
 				translation: zhTranslation,
 			},
-			kk: {
+			kz: {
 				translation: kzTranslation,
 			},
 		},
