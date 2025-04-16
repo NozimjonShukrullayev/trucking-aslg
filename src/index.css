@@ -83,17 +83,13 @@
 	}
 }
 
-body {
-	overflow-x: hidden;
-}
-
 @layer base {
 	* {
 		@apply border-border;
 	}
 
 	body {
-		@apply bg-background text-foreground dark:bg-[#1A1F2C];
+		@apply bg-background text-foreground dark:bg-[#1A1F2C] overflow-x-hidden;
 		font-feature-settings: 'rlig' 1, 'calt' 1;
 	}
 
@@ -160,10 +156,10 @@ body {
 		transform: translateX(0);
 	}
 	100% {
-		transform: translateX(-50%);
+		transform: translateX(-51%);
 	}
 }
 .partners-wrapper {
 	animation: partneranim 22s linear infinite;
-	width: fit-content;
+	width: max-content;
 }

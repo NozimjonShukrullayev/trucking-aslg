@@ -26,12 +26,14 @@ const BusinessSolution = () => {
 	]
 
 	return (
-		<section className='py-24 bg-white' id='about'>
-			<img
-				src={AboutBackdrop}
-				alt='backdrop-img'
-				className='absolute w-full h-full z-0'
-			/>
+		<section className='py-20 sm:py-32 bg-white' id='about'>
+			<div className='grid inset-0'>
+				<img
+					src={AboutBackdrop}
+					alt='backdrop-img'
+					className='absolute w-full h-full z-0'
+				/>
+			</div>
 			<div className='container-custom'>
 				<div className='grid grid-cols-12 gap-6'>
 					<div className='col-span-12 md:col-span-6 lg:col-span-5 z-20'>

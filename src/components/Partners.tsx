@@ -18,27 +18,27 @@ const Partners = () => {
 
 	const partners = [
 		{
-			name: 'RWest',
+			name: 'RWest7',
 			logo: Partners7,
 		},
 		{
-			name: 'RWest',
+			name: 'RWest6',
 			logo: Partners8,
 		},
 		{
-			name: 'RWest',
+			name: 'RWest5',
 			logo: Partners9,
 		},
 		{
-			name: 'RWest',
+			name: 'RWest4',
 			logo: Partners10,
 		},
 		{
-			name: 'RWest',
+			name: 'RWest3',
 			logo: Partners11,
 		},
 		{
-			name: 'RWest',
+			name: 'RWest2',
 			logo: Partners1,
 		},
 		{
@@ -54,55 +54,55 @@ const Partners = () => {
 			logo: Partners4,
 		},
 		{
-			name: 'Flow Energy',
+			name: 'Asian Development Company3',
 			logo: Partners5,
 		},
 		{
-			name: 'Flow Energy',
+			name: 'Asian Development Company 2',
 			logo: Partners6,
 		},
 		{
-			name: 'Flow Energy',
+			name: 'Flow Energy7',
 			logo: Partners7,
 		},
 		{
-			name: 'Flow Energy',
+			name: 'Flow Energy8',
 			logo: Partners8,
 		},
 		{
-			name: 'Flow Energy',
+			name: 'Flow Energy9',
 			logo: Partners9,
 		},
 		{
-			name: 'Flow Energy',
+			name: 'Flow Energy10',
 			logo: Partners10,
 		},
 		{
-			name: 'Flow Energy',
+			name: 'Flow Energy11',
 			logo: Partners11,
 		},
 		{
-			name: 'Flow Energy',
+			name: 'Flow Energy1',
 			logo: Partners1,
 		},
 		{
-			name: 'Flow Energy',
+			name: 'Flow Energy2',
 			logo: Partners2,
 		},
 		{
-			name: 'Flow Energy',
+			name: 'Flow Energy3',
 			logo: Partners3,
 		},
 		{
-			name: 'Flow Energy',
+			name: 'Flow Energy4',
 			logo: Partners4,
 		},
 		{
-			name: 'Flow Energy',
+			name: 'Flow Energy5',
 			logo: Partners5,
 		},
 		{
-			name: 'Flow Energy',
+			name: 'Flow Energy6',
 			logo: Partners6,
 		},
 	]
