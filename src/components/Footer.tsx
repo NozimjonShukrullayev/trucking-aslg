@@ -1,6 +1,7 @@
+import { Logo } from '@/assets/images'
 import { Instagram, Phone, Send } from 'lucide-react'
 import { useTranslation } from 'react-i18next'
-import { Logo } from '@assets/images'
+import { Link } from 'react-router-dom'
 
 const Footer = () => {
 	const { t } = useTranslation()
