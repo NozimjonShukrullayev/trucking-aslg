@@ -1,3 +1,4 @@
+import { serviceFourImg, serviceOneImg, serviceThreeImg, serviceTwoImg } from '@/assets/images'
 import { useTranslation } from 'react-i18next'
 
 const Services = () => {
@@ -7,25 +8,25 @@ const Services = () => {
 		{
 			id: 1,
 			title: t('services.service1.title'),
-			image: '/lovable-uploads/5cd721c2-55d3-43f9-aa1e-5fa7853b9503.png',
+			image: serviceOneImg,
 			index: 0,
 		},
 		{
 			id: 2,
 			title: t('services.service2.title'),
-			image: '/lovable-uploads/5cd721c2-55d3-43f9-aa1e-5fa7853b9503.png',
+			image: serviceTwoImg,
 			index: 1,
 		},
 		{
 			id: 3,
 			title: t('services.service3.title'),
-			image: '/lovable-uploads/5cd721c2-55d3-43f9-aa1e-5fa7853b9503.png',
+			image: serviceThreeImg,
 			index: 2,
 		},
 		{
 			id: 4,
 			title: t('services.service4.title'),
-			image: '/lovable-uploads/5cd721c2-55d3-43f9-aa1e-5fa7853b9503.png',
+			image: serviceFourImg,
 			index: 3,
 		},
 	]
